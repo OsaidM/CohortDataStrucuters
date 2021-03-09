@@ -1,7 +1,7 @@
 After Cohort Plan
 =============
 let's descover a way of making a schedule to keep learning and refreshing the concepts we learnet, 
-and also learn new stuffs maybe by sharing together of buying new courses on udemy.
+and also learn new stuffs maybe by sharing together the resources :).
 
 `
 after some researches, i found some courses that provides the same datastructures content we had in the academy, im going to download them and mention that in the descussion.
