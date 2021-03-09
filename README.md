@@ -14,7 +14,7 @@ i found this course which is related to the matter we discussed.
 ##### ***`udemy`***
 - [x] [Data Structures and Algorithms: Deep Dive Using Java](https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-TxgvsDCCOSHdAxzmM18Fwg&utm_medium=udemyads&utm_source=aff-campaign)
 
-** download link for the course and it's not legal btw :P, but hey do you care ? **
+** download link for the course and it's not legal btw 😋, but hey do you care ? **
 
 - [x] [Data Structures and Algorithms: Deep Dive Using Java](https://downloadly.net/2020/12/2717/03/data-structures-and-algorithms-deep-dive-using-java/22/?#/2717-udemy-012116030208.html)
 
@@ -27,7 +27,7 @@ another one :
 - [ ] [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-5_PRAc7T6QYDqQwnyYdtaw&utm_source=aff-campaign&LSNPUBID=JVFxdTr9V80&utm_medium=udemyads)
 
 
-** download link for the course and it's not legal btw :P, but hey do you care ? **
+** download link for the course and it's not legal btw 😋, but hey do you care ? **
 
 - [ ] [Master the Coding Interview: Data Structures + Algorithms](https://udemydownload.com/master-the-coding-interview-data-structures-algorithms/)
 
@@ -80,11 +80,11 @@ what we need to focus on right now, as "shnable" said is to make a practical pla
 - in the morning we make a descussion about the concept we studied before and we try to implement the algorithm together.
 
 
-`we chose this methodology since it's beneficial in our case ☻`
+`we chose this methodology since it's beneficial in our case 😁`
 - solve a leetcode problem after that
 
 
-`and as someone said "leetcode a day keeps unimployment away" :P`
+`and as someone said "leetcode a day keeps unimployment away" 🤠`
 
 ---
 
