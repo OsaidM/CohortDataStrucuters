@@ -23,7 +23,7 @@ i found this course which is related to the matter we discussed.
 ---
 
 
-another one :
+second one :
 
 ### ***`udemy`***
 - [ ] [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-5_PRAc7T6QYDqQwnyYdtaw&utm_source=aff-campaign&LSNPUBID=JVFxdTr9V80&utm_medium=udemyads)
