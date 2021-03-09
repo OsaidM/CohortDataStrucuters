@@ -102,3 +102,5 @@ time options:
 2. implementing the algorithm, in the second hour.
 3. after the second hour everyone is free to go, but we recomend in our case to solve a leetcode problem(algorithm). and then you are reaaaaaally free to go. so it's optional `illa shway`.
 ---
+
+
