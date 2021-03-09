@@ -80,7 +80,7 @@ what we need to focus on right now, as "shnable" said is to make a practical pla
 - in the morning we make a descussion about the concept we studied before and we try to implement the algorithm together.
 
 
-`we chose this methodology since it's beneficial in our case 😁`
+`we chose this methodology since it's beneficial in our case 😊`
 - solve a leetcode problem after that
 
 
