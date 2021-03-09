@@ -1,6 +1,3 @@
-# CohortDataStrucuters
-
-
 After Cohort Plan
 =============
 let's descover a way of making a schedule to keep learning and refreshing the concepts we learnet, 
