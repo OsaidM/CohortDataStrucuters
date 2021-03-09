@@ -18,6 +18,8 @@ i found this course which is related to the matter we discussed.
 
 - [x] [Data Structures and Algorithms: Deep Dive Using Java](https://downloadly.net/2020/12/2717/03/data-structures-and-algorithms-deep-dive-using-java/22/?#/2717-udemy-012116030208.html)
 
+
+#### we chose this course to go with instead of the second one which is using javascript in his course.
 ---
 
 
