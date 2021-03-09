@@ -78,8 +78,12 @@ what we need to focus on right now, as "shnable" said is to make a practical pla
 
 - night study, we prepare the material for next morning.
 - in the morning we make a descussion about the concept we studied before and we try to implement the algorithm together.
+
+
 `we chose this methodology since it's beneficial in our case ☻`
 - solve a leetcode problem after that
+
+
 `and as someone said "leetcode a day keeps unimployment away" :P`
 
 ---
