@@ -85,7 +85,7 @@ what we need to focus on right now, as "shnable" said is to make a practical pla
 
 
 `we chose this methodology since it's beneficial in our case 😊`
-- solve a leetcode problem after that
+- solve a leetcode problem(algorithm) after that
 
 
 `and as someone said "leetcode a day keeps unimployment away" 🤠`
@@ -100,5 +100,5 @@ time options:
 
 1. concepts in the first hour.
 2. implementing the algorithm, in the second hour.
-3. after the second hour everyone is free to go, but we recomend in our case to solve a leetcode problem. and then you are reaaaaaally free to go. so it's optional `illa shway`.
+3. after the second hour everyone is free to go, but we recomend in our case to solve a leetcode problem(algorithm). and then you are reaaaaaally free to go. so it's optional `illa shway`.
 ---
