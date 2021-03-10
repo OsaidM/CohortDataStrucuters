@@ -103,4 +103,12 @@ time options:
 3. after the second hour everyone is free to go, but we recomend in our case to solve a leetcode problem(algorithm). and then you are reaaaaaally free to go. so it's optional `illa shway`.
 ---
 
+everyday practical
 
+- everyday we will be choosing a memeber of the group to prepare the next topic of the data structure and on that:
+  - he/she needs to prepare slides for his topic.
+  - including the main concepts
+  - including full implementation
+
+
+**meeting on 11/3/2021 to discuss the time and any suggestions about the methodology in use**
