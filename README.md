@@ -38,7 +38,7 @@ second one :
 
 there are some other courses related to react and MySql, deserves mentioning in this guide:\
 
-these links are just for anyone who is searching for additional resources and materials, btw **REDUX** is so important for `react` keep any for it.  
+these links are just for anyone who is searching for additional resources and materials, btw **REDUX** is so important for `react` keep an for it.  
 
 - [ ] [The Modern React Bootcamp (Hooks, Context, NextJS, Router)](https://freecoursesite.com/1-the-modern-react-bootcamp-hooks-context-router-more/)
 
