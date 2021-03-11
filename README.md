@@ -162,7 +162,7 @@ Meeting sumarry:
 ## And please keep these points in mind
 
   - We are here to learn from each others.
-  - **Everyone should be responsible to make this work in the best way**
+  - **Each one of us is responsible to make this work in the best way**
 
 ---
 
