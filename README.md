@@ -160,10 +160,13 @@ Meeting sumarry:
 **keep an eye on discord for the latest updates.**
 
 ## And please keep these points in mind
-`
+
   - We are here to learn from each others.
   - **Everyone should be responsible to make this work in the best way**
 
+---
+
 And in the end of everyday we say ` O GOD give us the best of this, and the best of everything`.
+
 **stay safe and keep your spirits up.**
 `
