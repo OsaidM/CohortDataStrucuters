@@ -142,18 +142,20 @@ everyday practical
 
 **meeting on 11/3/2021 to discuss the time and any suggestions about the methodology in use**
   
-  meeting sumarry:
-    - Everyday practice
-      -  for each data structure :
-        -  clear definition
-        -  its Operations (for example the operations on Queue are Enque, Deque) you can see this site for additional information [tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm)
-        -  use cases
-        -  important implementations as required
-        -  common interview questions about it.
-        -  the implementation language in **JAVA**
-      -  every meeting must choose the next group that should prepare for the next data structure 
-      -  preparation for each data structure preferably a day before the meeting.
-    -  **and please make sure to `VOTE` for the time that suites you the best.**
+
+Meeting sumarry:
+- Everyday practice
+  -  for each data structure :
+	-  clear definition
+	-  its Operations (for example the operations on Queue are Enque, Deque) you can see this site for additional information [tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm)
+	-  use cases
+	-  important implementations as required
+	-  common interview questions about it.
+	-  the implementation language in **JAVA**
+  -  every meeting must choose the next group that should prepare for the next data structure 
+  -  preparation for each data structure preferably a day before the meeting.
+- **and please make sure to `VOTE` for the time that suites you the best.**
+
 
 **keep an eye on discord for the latest updates.**
 
