@@ -143,7 +143,7 @@ everyday practical
 **meeting on 11/3/2021 to discuss the time and any suggestions about the methodology in use**
   
 
-Meeting sumarry:
+Meeting summary:
 - Everyday practice
   -  for each data structure :
 	-  clear definition
