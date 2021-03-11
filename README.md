@@ -147,7 +147,7 @@ Meeting sumarry:
 - Everyday practice
   -  for each data structure :
 	-  clear definition
-	-  its Operations (for example the operations on Queue are Enque, Deque) you can see this site for additional information [tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm)
+	-  its Operations (for example some of the operations on Queue are Enque, Deque) you can see this site for additional information [tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm)
 	-  use cases
 	-  important implementations as required
 	-  common interview questions about it.
