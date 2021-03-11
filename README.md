@@ -31,7 +31,7 @@ a GITHUB that has algorithms with its solutions, algorithms book of coding dojo 
 a very cool website that provides you with the basic operations for each data structure
 
 [techiedelight](https://www.techiedelight.com/Category/Array/)
-a very cool one that provides you with necessary code for most the datastructres
+a very cool one that provides you with necessary code for most of the datastructres
 
 **additional resources:**
 - [geeksforgeeks](https://www.geeksforgeeks.org/java/?ref=leftbar)
