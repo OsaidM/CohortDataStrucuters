@@ -20,6 +20,24 @@ i found this course which is related to the matter we discussed.
 
 
 #### *we chose this course to go instead of the second one which is using javascript in his course*.
+
+[Data Structures](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+a very nice channel with nice explanation for the data structures in **ARABIC**.
+
+[Algorithms](https://github.com/urianchang/Algorithms)
+a GITHUB that has algorithms with its solutions, algorithms book of coding dojo is inculded!
+
+[tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm)
+a very cool website that provides you with the basic operations for each data structure
+
+[techiedelight](https://www.techiedelight.com/Category/Array/)
+a very cool one that provides you with necessary code for most the datastructres
+
+**additional resources:**
+- [geeksforgeeks](https://www.geeksforgeeks.org/java/?ref=leftbar)
+- [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+  - this site is using **javascript**
+
 ---
 
 
@@ -48,6 +66,8 @@ these links are just for anyone who is searching for additional resources and ma
 
 - [ ] [Node.js, Express, MongoDB & More: The Complete Bootcamp 2021](https://udemydownload.com/node-js-express-mongodb-more-the-complete-bootcamp-2021/)
 
+- [ ] [Learn useState In 15 Minutes - React Hooks Explained](https://www.youtube.com/watch?v=O6P86uwfdR0&list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
+
 ---
 
 before we get into the schedule we need to choose some websites to keep ourselves on solid state system
@@ -59,6 +79,7 @@ this is a post on quora on the differences between HackerRank and LeetCode.
 another post on meduim
 
 [About LeetCode and the Recruiting Process in Silicon Valley](https://medium.com/@teamblind/about-leetcode-and-the-recruiting-process-in-silicon-valley-d91eab67106#:~:text=What%20Is%20LeetCode%3F,Topcoder%2C%20InterviewBit%2C%20among%20others.)
+
 
 ---
 
@@ -77,6 +98,14 @@ what we need to focus on right now, as "shnable" said is to make a practical pla
 | 7 | Search algorithms | 
 | 8 | Trees | 
 | 9 | Heaps | 
+
+
+---
+
+names needs to be mentioned for helping improving the resources Section:
+  - Jihad J
+  - Hadeel Y
+  - Rahaf H
 
 ---
 
@@ -105,10 +134,34 @@ time options:
 
 everyday practical
 
-- everyday we will be choosing a memeber of the group to prepare the next topic of the data structure and on that:
+- everyday we will be choosing a member of the group to prepare the next topic of the data structure and on that:
   - he/she needs to prepare slides for his topic.
   - including the main concepts
   - including full implementation
 
 
 **meeting on 11/3/2021 to discuss the time and any suggestions about the methodology in use**
+  
+  meeting sumarry:
+    - Everyday practice
+      -  for each data structure :
+        -  clear definition
+        -  its Operations (for example the operations on Queue are Enque, Deque) you can see this site for additional information [tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm)
+        -  use cases
+        -  important implementations as required
+        -  common interview questions about it.
+        -  the implementation language in **JAVA**
+      -  every meeting must choose the next group that should prepare for the next data structure 
+      -  preparation for each data structure preferably a day before the meeting.
+    -  **and please make sure to `VOTE` for the time that suites you the best.**
+
+**keep an eye on discord for the latest updates.**
+
+## And please keep these points in mind
+`
+  - We are here to learn from each others.
+  - **Everyone should be responsible to make this work in the best way**
+
+And in the end of everyday we say ` O GOD give us the best of this, and the best of everything`.
+**stay safe and keep your spirits up.**
+`
