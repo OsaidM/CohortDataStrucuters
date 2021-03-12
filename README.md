@@ -21,6 +21,9 @@ i found this course which is related to the matter we discussed.
 
 #### *we chose this course to go instead of the second one which is using javascript in his course*.
 
+---
+**Other Resources**
+
 [Data Structures](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
 a very nice channel with nice explanation for the data structures in **ARABIC**.
 
