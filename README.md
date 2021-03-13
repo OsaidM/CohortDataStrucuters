@@ -120,7 +120,7 @@ names needs to be mentioned for helping improving the resources Section:
 - solve a leetcode problem(algorithm) after that
 
 
-`and as someone said "leetcode a day keeps unimployment away" 🤠`
+`and as someone said "leetcode a day keeps unemployment away" 🤠`
 
 ---
 
